@@ -1,4 +1,4 @@
-export API_KEY=<YOUR_API_KEY> && echo '{
+export API_KEY=<sk-PBevhsC_sCXQBoF2F_29tBAXv10b7nYLpMP0DKNSyzT3BlbkFJlbeA1EqHIbop3-ukHyB0ugo_BdZ_66HgSCuQP7nOsA> && echo '{
   "document": {
     "type": "PLAIN_TEXT",
     "content": "Joanne Rowling, who writes under the pen names J. K. Rowling and Robert Galbraith, is a British novelist and screenwriter who wrote the Harry Potter fantasy series."
